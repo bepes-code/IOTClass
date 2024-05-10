@@ -37,7 +37,11 @@ The project utilizes a sophisticated platform and a blend of cutting-edge techno
   - Arduino for hardware interfacing
 
 # Credits
-- **Aleix**: Hardware development and communications
+- **Aleix(bepes-code)**: Hardware development and communications
 - **Jonas**: Backend development
 - **Laura**: Frontend development
 - **Chave**: Contributed to hardware development and prototype construction
+
+# Extras
+ - Devpost: 
+ - **This projects get the 3r position in the HackUPC 2024**
